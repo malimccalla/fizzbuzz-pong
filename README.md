@@ -1,6 +1,6 @@
 #Boris Bikes
 
-This week ill be building a program that will run all the Docking Stations, simulate all the Bikes, and emulate all the infrastructure (vans, repair staff, and so on)
+This week we will be building a program that will run all the Docking Stations, simulate all the Bikes, and emulate all the infrastructure (vans, repair staff, and so on)
 
 ## User stories
 
@@ -19,3 +19,5 @@ I'd like to see if a bike is working
 | Person          |                  |
 | Bike            | working?         |
 | Docking station | release_bike     |
+
+Authors: [Mali Michael](https://github.com/malimichael/) & [Laurence Kite](https://github.com/larryzx/)
